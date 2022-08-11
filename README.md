@@ -29,6 +29,6 @@ The knowledge gained from our results may be utilized in consideration for the e
 
 ## Notes
 
-The final paper and video demonstration are in this repository, named as such.
+The final paper and video demonstration are in this repository!
 
 Thank you!
