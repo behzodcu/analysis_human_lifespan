@@ -29,6 +29,6 @@ The knowledge gained from our results may be utilized in consideration for the e
 
 ## Notes
 
-The final paper and video demonstration are in this repository! There is also a video for the visualization extra credit mentioned in the write-up for Part 4. 
+The final paper for Part 4 and video demonstration (as a .mov) for Part 6 are in this repository! There is also a video for the visualization extra credit mentioned in the write-up for Part 4. 
 
 Thank you!
